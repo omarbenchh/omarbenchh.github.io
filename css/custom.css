@@ -458,6 +458,14 @@ nav .active a {
 
 /* Interests ------------------------------------------------- */
 
+.collections .title .glyphicon{
+    background-color: #9c27b0;
+}
+
+.collections ul li:hover {
+    padding-left: 27px;
+}
+
 .interests .title .glyphicon{
     background-color: #f00;
 }
